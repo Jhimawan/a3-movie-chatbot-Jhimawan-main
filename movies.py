@@ -435,4 +435,17 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
             "spike lee",
         ],
     ),
+    (
+        "captain america the first avenger",
+        "joe johnston",
+        2011,
+        [
+            "chris evans",
+            "hayley atwell",
+            "sebastian stan",
+            "dominic cooper",
+            "hugo weaving",
+        ],
+
+    )
 ]
